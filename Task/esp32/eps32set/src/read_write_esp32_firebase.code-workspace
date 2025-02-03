@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Arduino/read_write_esp32_firebase"
+		},
+		{
+			"name": "eps32set",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

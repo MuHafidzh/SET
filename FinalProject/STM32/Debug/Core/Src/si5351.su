@@ -1,0 +1,11 @@
+../Core/Src/si5351.c:113:6:si5351_Init	24	static
+../Core/Src/si5351.c:135:6:si5351_SetupPLL	56	static
+../Core/Src/si5351.c:156:5:si5351_SetupOutput	56	static
+../Core/Src/si5351.c:226:6:si5351_Calc	72	static
+../Core/Src/si5351.c:301:6:si5351_CalcIQ	32	static
+../Core/Src/si5351.c:339:6:si5351_SetupCLK0	56	static
+../Core/Src/si5351.c:349:6:si5351_SetupCLK1	56	static
+../Core/Src/si5351.c:359:6:si5351_SetupCLK2	56	static
+../Core/Src/si5351.c:372:6:si5351_EnableOutputs	16	static
+../Core/Src/si5351.c:377:6:si5351_write	32	static
+../Core/Src/si5351.c:390:6:si5351_writeBulk	24	static
